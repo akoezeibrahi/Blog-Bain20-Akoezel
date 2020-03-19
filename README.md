@@ -1,5 +1,3 @@
-# Willkommen-auf-meinem-Blog-Bain20-
-
 title: Modulblog BAIN
 author: Ibrahim Akoezel
 email: ibrahim.akoezel@stud.fhgr.ch
