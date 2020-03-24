@@ -1,3 +1,3 @@
-#1.1 Einrichtung der Arbeitsumgebung (Linux)
-#1.2 Grundlagen der Unix Shell
-#1.3 Versionskontrolle mit Git
+##2.1 Installation und Konfiguration von Koha
+##2.2 Metadatenstandards in Bibliotheken (MARC21)
+*2.2 Marktüberblick Bibliothekssysteme
