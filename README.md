@@ -5,7 +5,6 @@
  - theme: Einblick in Bibliotheken und Archiven eingesetzten Softwares und Technologien
  - github_username: akoezeibrahi
 
-Tagesbuch_BAIN20
 
 ## 1_ Technische Grundlagen
 
