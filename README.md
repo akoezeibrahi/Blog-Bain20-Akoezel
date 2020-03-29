@@ -5,7 +5,15 @@
  - theme: Einblick in Bibliotheken und Archiven eingesetzten Softwares und Technologien
  - github_username: akoezeibrahi
 
-* [1_Grundlagen]
+[1_Grundlagen]
+[2_Funktion und Aufbau von Bibliothekssystemen]
+[2_Funktion und Aufbau von Bibliotheks- und Archivsystemen]
+[3_Repository-Software für Publikationen und Forschungsdaten ]
+[4_Metadaten modellieren und Schnittstellen nutzen]
+[5_Suchmaschinen und Discovery-Systeme]
+[6_Linked Data]
+
+
 
 ## 1_ Technische Grundlagen
 
@@ -15,8 +23,7 @@ Da ich in den Unterricht aufgrund meiner [FCE-Prüfung](https://cambridge-exams.
 
 ## 1.1  Einrichten beim Arbeitsumgebung (Linux)
 
-den Name Linux habe ich nur als Betriebsystem gehört und mehr weiss ich nicht. Da ich vorher meinen Dozent informiert habe, habe einen Link für die Cloud-Plattform Microsoft Azure erhalten, aber für die Erstellung eines Kontos musste ich ein Konto bei Microft haben, damit die Registration einfacher laufen kann. Nachdem ich den Link erhalten habe, habe ich mich bei Aura Labs registriert und es sah wie folgt auf dem Printscreen aus.
-![Screenshot Azure Lab Services - Meine virtuellen Computer](https://bain.felixlohmeier.de/images/01_azure-vms.png)
+den Name Linux habe ich nur als Betriebsystem gehört und mehr weiss ich nicht. Da ich vorher meinen Dozent informiert habe, habe einen Link für die Cloud-Plattform Microsoft Azure erhalten, aber für die Erstellung eines Kontos musste ich ein Konto bei Microft haben, damit die Registration einfacher laufen kann. Nachdem ich den Link erhalten habe, habe ich mich bei Aura Labs registriert und es sah wie folgt auf dem Printscreen aus.![Screenshot Azure Lab Services - Meine virtuellen Computer](https://bain.felixlohmeier.de/images/01_azure-vms.png)
 
 Damit ich die Eigene virtuelle Maschine, welche auf dem einem [Linux Betriebsystem ](https://wiki.ubuntu.com/EoanErmine/ReleaseNotes ) basiert,haben kann, wurde ich anhang eienes Links zum Cloud Plattform Microsoft Azure Lab Services eingeladen. In zweiten Schritt habe ich das [Microsoft Remote Desktop 10](https://apps.apple.com/de/app/microsoft-remote-desktop-10/id1295203466) für Mac installiert und mit der virtuelle Maschine auf dem Azura Lab verbunden.
 
