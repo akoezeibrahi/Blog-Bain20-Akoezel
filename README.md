@@ -21,7 +21,7 @@ Da ich den Unterricht aufgrund meiner [FCE-Prüfung](https://cambridge-exams.ch/
 
 ## 1.1  Einrichten der Arbeitsumgebung (Linux)
 
-Den Namen Linux habe ich nur als Betriebsystem gehört und mehr weiss ich darüber nicht. Da ich vorher meinen Dozenten informiert habe, habe ich einen Link für die Cloud-Plattform Microsoft Azure erhalten. Für die Erstellung eines Kontos musste ich jedoch ein Konto bei Micrsoft haben, damit die Registration einfacher erfolgen kann. Nachdem ich den Link erhalten habe, habe ich mich bei Aura Labs registriert und es sah wie folgt auf dem Printscreen aus:
+Den Namen Linux habe ich nur als Betriebsystem gehört und mehr weiss ich darüber nicht. Da ich vorher meinen Dozenten informiert habe, habe ich einen Link für die Cloud-Plattform Microsoft Azure erhalten. Für die Erstellung eines Kontos musste ich jedoch ein Konto bei Micrsoft haben, damit die Registration einfacher erfolgen kann. Nachdem ich den Link erhalten habe, habe ich mich bei Azura Labs registriert und es sah wie folgt auf dem Printscreen aus:
 
 ![Screenshot Azure Lab Services - Meine virtuellen Computer](https://bain.felixlohmeier.de/images/01_azure-vms.png)
 
@@ -29,10 +29,9 @@ Damit ich die eigene virtuelle Maschine, welche auf dem [Linux Betriebsystem ](h
 
 ## 1.2 Unix Shell
 
-Der Name Unix Shell sagte mir nicht viel. Natürlich kann es darn liegen, dass ich keine Ahnung von solchen Systemen habe. Gemäss einer [Quelle](https://www.tutorialspoint.com/unix/unix-what-is-shell.htm) wird unter einem Shell folgendes verstanden:
+Der Name Unix Shell sagte mir nicht viel. Natürlich kann es darn liegen, dass ich keine Ahnung von solchen Systemen habe. Gemäss der Quelle [tutorialspoint](https://www.tutorialspoint.com/unix/unix-what-is-shell.htm) wird unter einem Shell folgendes verstanden:
 
-Unter einer Shell wird eine Umgebung, wo Befehle, Programme und Skripte ausgeführt werden können, verstanden. Sie stellt den Nutzenden eine Schnittstelle zum System UNIX bereit. Wenn wir im Programm etwas ein- oder ausgeben, wird dies durch die Programme auf dieser Grundlage ausgeführt. Es gibt verschiedene Varienten von einer Shell, was auch bei anderen Betriebssystemen der Fall ist. Jede Shell-Variante hat ihren eigenen Satz von anerkannten Befehlen und Funktionen. Einige Varianten von einer Shell sind unten aufgeführt. In Unix gibt es zwei Haupttypen von Shells:
-Es gibt verschiedene Varianten von einer Shell, was auch bei anderen Betriebssysteme der Fall ist.Jede Shell-Variante hat ihren eigenen Satz von anerkannten Befehlen und Funktionen. Einige Varianten von eienr Shell sehen unten. In Unix gibt es zwei Haupttypen von Shells:
+Unter einer Shell wird eine Umgebung, wo Befehle, Programme und Skripte ausgeführt werden können, verstanden. Sie stellt den Nutzenden eine Schnittstelle zum System UNIX bereit. Die Ein- und Ausgaben führen die Programme auf dieser Grundlage aus. Es gibt verschiedene Varianten von einer Shell, was auch bei anderen Betriebssystemen der Fall ist. Jede Shell-Variante hat ihren eigenen Satz von anerkannten Befehlen und Funktionen. Einige Varianten von einer Shell sind unten aufgeführt. In Unix gibt es zwei Haupttypen von Shells:
 
 * Bourne-Shell 
 
