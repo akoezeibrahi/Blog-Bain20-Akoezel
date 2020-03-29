@@ -53,8 +53,7 @@ In Unix gibt es zwei Haupttypen von Shells:
 
 Die erste ursprüngliche Unix Shell (Bourne) wurde in 1970er Jahren von  [Stephen R. Bourne ](https://de.wikipedia.org/wiki/Stephen_R._Bourne) geschrieben. Diese Version wird meisten genutzt, um die Skripte zu schreiben und diese Skritpte werden auf unterschiedliche Unix-Varianten verwendet.
 
-
 ## 1.3 GitHub
 
-Nachdem ich einige Möglichkeiten für die Erstellung vom Blog angeschaut habe, habe ich für [GitHub](https://github.com) entschieden. Andere Varienten wären Wordpress, GitLab, BitBucket SourceForge, Wix.com zumErstellen eines Blogs. Das registrieren beim GitHub war einfach und es gibt genügende tutorials und deswegen kann man schnell mit dem anfangen zu arbeiten.
+Nachdem ich einige Möglichkeiten für die Erstellung vom Blog angeschaut habe, habe ich für [GitHub](https://github.com) entschieden. Andere Varienten wären Wordpress, GitLab, BitBucket SourceForge, Wix.com zumErstellen eines Blogs. Das registrieren beim GitHub war einfach und es gibt genügende tutorials, sich zu vertiefen, was ich noch vorhabe.Und etwas neues zu probieren und kennenlernen macht neugierig.
  
