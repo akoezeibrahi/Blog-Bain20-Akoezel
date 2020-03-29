@@ -22,6 +22,13 @@ Damit ich die Eigene virtuelle Maschine, welche auf dem einem [Linux Betriebsyst
 
 ## 1.2 Unix Shell
 
+Den Name Unix Shell sagte mir nicht viel. Natürlich kann es darn liegen, dass ich keine Ahnung von solchen Systeme habe. Gmäss einer [Quelle](https://www.tutorialspoint.com/unix/unix-what-is-shell.htm) wird unter einem Shell folgendes verstanden
+Eine Shell stellt Ihnen eine Schnittstelle zum Unix-System zur Verfügung. Sie sammelt Eingaben von Ihnen und führt Programme auf der Grundlage dieser Eingaben aus. Wenn die Ausführung eines Programms beendet ist, zeigt sie die Ausgabe dieses Programms an.
+
+Eine Shell ist eine Umgebung, in der wir unsere Befehle, Programme und Shell-Skripte ausführen können. Es gibt verschiedene Varianten einer Shell, so wie es auch verschiedene Varianten von Betriebssystemen gibt. Jede Shell-Variante hat ihren eigenen Satz von anerkannten Befehlen und Funktionen.
+
+
+
 ## 1.3 GitHub
 
 Nachdem ich einige Möglichkeiten für die Erstellung vom Blog angeschaut habe, habe ich für [GitHub](https://github.com) entschieden. Andere Varienten wären Wordpress, GitLab, BitBucket SourceForge, Wix.com zumErstellen eines Blogs. Das registrieren beim GitHub war einfach und es gibt genügende tutorials und deswegen kann man schnell mit dem anfangen zu arbeiten.
