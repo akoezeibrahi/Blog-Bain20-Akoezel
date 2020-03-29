@@ -22,11 +22,29 @@ Damit ich die Eigene virtuelle Maschine, welche auf dem einem [Linux Betriebsyst
 
 ## 1.2 Unix Shell
 
-Den Name Unix Shell sagte mir nicht viel. Natürlich kann es darn liegen, dass ich keine Ahnung von solchen Systeme habe. Gmäss einer [Quelle](https://www.tutorialspoint.com/unix/unix-what-is-shell.htm) wird unter einem Shell folgendes verstanden
-Eine Shell stellt Ihnen eine Schnittstelle zum Unix-System zur Verfügung. Sie sammelt Eingaben von Ihnen und führt Programme auf der Grundlage dieser Eingaben aus. Wenn die Ausführung eines Programms beendet ist, zeigt sie die Ausgabe dieses Programms an.
+Den Name Unix Shell sagte mir nicht viel. Natürlich kann es darn liegen, dass ich keine Ahnung von solchen Systeme habe. Gmäss einer [Quelle](https://www.tutorialspoint.com/unix/unix-what-is-shell.htm) wird unter einem Shell folgendes verstanden.
 
-Eine Shell ist eine Umgebung, in der wir unsere Befehle, Programme und Shell-Skripte ausführen können. Es gibt verschiedene Varianten einer Shell, so wie es auch verschiedene Varianten von Betriebssystemen gibt. Jede Shell-Variante hat ihren eigenen Satz von anerkannten Befehlen und Funktionen.
+Unter einer Shell wird eine Umgebung, weo Befehle, Programme und Skripte ausgeführt werden können. Sie stellt den Nutzenden eine Schnittstelle zum system UNIX bereit. Wenn wir im Programm etwas ein oder ausgeben, werden diese und führt die Programme
+auf dieser Grundlage aus. Es gibt verschiedene Varienten von einer Shell, was auch bei anderen Betriebssysteme der Fall ist.Jede Shell-Variante hat ihren eigenen Satz von anerkannten Befehlen und Funktionen. Einige Varianten von eienr Shell sehen unten:
+In Unix gibt es zwei Haupttypen von Shells:
 
+*Bourne-Shell 
+
+*C-Shell 
+
+#Unterkategorien Von Bourne-Shell:
+
+Bourne-Muschel (sh)
+Korn-Schale (ksh)
+Bourne Again Schale (bash)
+POSIX-Schale (sh)
+
+#Unterkategorien Von C-Typ-Schalen:
+
+C-Schale (csh)
+TENEX/TOPS C-Shell (tcsh)
+
+Die erste ursprüngliche Unix Shell (Bourne) wurde in 1970er Jahren von  [Stephen R. Bourne ](https://de.wikipedia.org/wiki/Stephen_R._Bourne) geschrieben. Diese Version wird meisten genutzt, um die Skripte zu schreiben und diese Skritpte werden auf unterschiedliche Unix-Varianten verwendet.
 
 
 ## 1.3 GitHub
