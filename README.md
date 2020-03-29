@@ -28,21 +28,21 @@ Unter einer Shell wird eine Umgebung, weo Befehle, Programme und Skripte ausgef√
 auf dieser Grundlage aus. Es gibt verschiedene Varienten von einer Shell, was auch bei anderen Betriebssysteme der Fall ist.Jede Shell-Variante hat ihren eigenen Satz von anerkannten Befehlen und Funktionen. Einige Varianten von eienr Shell sehen unten:
 In Unix gibt es zwei Haupttypen von Shells:
 
-*Bourne-Shell 
+1 Bourne-Shell 
 
-*C-Shell 
+2 C-Shell 
 
-#Unterkategorien Von Bourne-Shell:
+Unterkategorien Von Bourne-Shell:
 
-Bourne-Muschel (sh)
-Korn-Schale (ksh)
-Bourne Again Schale (bash)
-POSIX-Schale (sh)
+* Bourne-Muschel (sh)
+* Korn-Schale (ksh)
+* Bourne Again Schale (bash)
+* POSIX-Schale (sh)
 
-#Unterkategorien Von C-Typ-Schalen:
+Unterkategorien Von C-Typ-Schalen:
 
-C-Schale (csh)
-TENEX/TOPS C-Shell (tcsh)
+* C-Schale (csh)
+* TENEX/TOPS C-Shell (tcsh)
 
 Die erste urspr√ºngliche Unix Shell (Bourne) wurde in 1970er Jahren von  [Stephen R. Bourne ](https://de.wikipedia.org/wiki/Stephen_R._Bourne) geschrieben. Diese Version wird meisten genutzt, um die Skripte zu schreiben und diese Skritpte werden auf unterschiedliche Unix-Varianten verwendet.
 
