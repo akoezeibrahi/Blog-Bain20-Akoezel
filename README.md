@@ -1,8 +1,8 @@
  - title: Modulblog BAIN
  - author: Ibrahim Akoezel
  - email: ibrahim.akoezel@stud.fhgr.ch
- - description: Bibliothek, Archiv, Informatik, Open Source
- - theme: Einblick in Bibliotheken und Archiven eingesetzten Softwares und Technologien
+ - description: Einblick in Bibliotheken und Archiven eingesetzten Softwares und Technologien 
+ - theme: Bibliothek, Archiv, Informatik, Open Source
  - github_username: akoezeibrahi
 
 * [1_Technische Grundlagen]()
