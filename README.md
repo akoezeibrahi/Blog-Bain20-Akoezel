@@ -5,10 +5,10 @@
  - Theme: Bibliothek, Archiv, Informatik, Open Source
  - Github_username: akoezeibrahi
 
-* [Einführung]()
+[Einführung]()
 
-* [Inhaltverzeichnis]()
-* [1_Technische Grundlagen]()
+[Inhaltverzeichnis]()
+[1_Technische Grundlagen]()
 * [2_Funktion und Aufbau von Bibliotheks- und Archivsystemen]()
 * [3_Repository-Software für Publikationen und Forschungsdaten ]()
 * [4_Metadaten modellieren und Schnittstellen nutzen]()
