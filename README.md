@@ -126,19 +126,5 @@ The Dublin Core Metadata Element Set:
 
 ##  2.3. Marktüberblick Bibliothekssysteme
 
-Unter einem Bibliothekssystem wird, welches alle mögliche Geschäftsabläufe der bibliothekarischen Arbeit in einer Datenbank abbildet,verstanden.Für die Bibliotheken sind bekannte Abkäufe wie Erwerbung, Ausleihe, Katalogisieren, Rechungen etc. Auch ist die Liste für die [Bibliothekssysteme] (https://homepage.ruhr-uni-bochum.de/Joerg.Becker/bibliothekssysteme.htm ) sehr lang, aber nicht alle haben den gleichen Erfolg. In der Schweiz ist je nach Bibliothekystype wird ein anderes system genutzt. Im Bereich Hochschul und Zentralbibliotheken wird Alepf benutzt, aber bald wird von ALMA abgelöst. Beide systeme gehören zur Firma [ExLibris] (https://www.exlibrisgroup.com/de/). Im öffentlichen Bereich kommen andere systeme im Einsatz. Enige bekannte sehen unten:
-
-[Winmedio Predata AG](https://www.predata.ch/de/Bibliothekssoftware/winMedionet)
-
-[Netbiblio ](http://www.alcoda.ch/index.php/de/)
-
-[Axiell Arena](https://www.axiell.com/solutions/library-software/)
-
-[Aleph](https://www.exlibrisgroup.com/de/products/aleph-integrated-library-system/)
-
-[SISIS-SunRise](https://www.oclc.org/de/sunrise.html)
-
-[ALMA](https://www.exlibrisgroup.com/de/produkte/alma-cloudgestuetzte-bibliotheksplattform/)
-
-[Koha](https://koha-community.org)
+Unter einem Bibliothekssystem wird, welches alle mögliche Geschäftsabläufe der bibliothekarischen Arbeit in einer Datenbank abbildet,verstanden.Für die Bibliotheken sind bekannte Abkäufe wie Erwerbung, Ausleihe, Katalogisieren, Rechungen etc. Auch ist die Liste für die [Bibliothekssysteme] (https://homepage.ruhr-uni-bochum.de/Joerg.Becker/bibliothekssysteme.htm ) sehr lang, aber nicht alle haben den gleichen Erfolg. In der Schweiz ist je nach Bibliothekystype wird ein anderes system genutzt. Im Bereich Hochschul und Zentralbibliotheken wird Alepf benutzt, aber bald wird von ALMA abgelöst. Beide systeme gehören zur Firma [ExLibris] (https://www.exlibrisgroup.com/de/). Im öffentlichen Bereich kommen andere systeme im Einsatz. Enige bekannte sehen unten:[Winmedio Predata AG](https://www.predata.ch/de/Bibliothekssoftware/winMedionet), [Netbiblio ](http://www.alcoda.ch/index.php/de/), [Axiell Arena](https://www.axiell.com/solutions/library-software/), [Aleph](https://www.exlibrisgroup.com/de/products/aleph-integrated-library-system/), [SISIS-SunRise](https://www.oclc.org/de/sunrise.html), [ALMA](https://www.exlibrisgroup.com/de/produkte/alma-cloudgestuetzte-bibliotheksplattform/), [Koha](https://koha-community.org)
  
