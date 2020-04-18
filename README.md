@@ -5,25 +5,26 @@
  - Theme: Bibliothek, Archiv, Informatik, Open Source
  - Github_username: akoezeibrahi
 
-[Einführung]()
 
 [Inhaltverzeichnis]()
 
-[1_Technische Grundlagen]()
+[1_Einführung]()
 
-[2_Funktion und Aufbau von Bibliotheks- und Archivsystemen]()
+[2_Technische Grundlagen]()
 
-[3_Repository-Software für Publikationen und Forschungsdaten ]()
+[3_Funktion und Aufbau von Bibliotheks- und Archivsystemen]()
 
-[4_Metadaten modellieren und Schnittstellen nutzen]()
+[4_Repository-Software für Publikationen und Forschungsdaten ]()
 
-[5_Suchmaschinen und Discovery-Systeme]()
+[5_Metadaten modellieren und Schnittstellen nutzen]()
 
-[6_Linked Data]()
+[6_Suchmaschinen und Discovery-Systeme]()
 
-[Schluss]()
+[7_Linked Data]()
 
+[8_Schluss]()
 
+..............................................................................................................................
 
 
 
