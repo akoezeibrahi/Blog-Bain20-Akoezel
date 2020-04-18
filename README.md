@@ -98,25 +98,17 @@ Dublin Core™ Metadaten, oder genauer gesagt Metadaten "im Stil von Dublin Core
  
 
 The Dublin Core Metadata Element Set:
-| Nummer| Feld|    Nummer|   Feld|
-| ------ | ------ |------ | ------ |
-| 1   | Title|       8|       Type|
-| 2   | Subject|
-| 3   | Description|
-| 4   | SCreator|
-| 5   | Publisher|
-| 6   | Contributor|
-| 7   | Date|
-
+| Nummer| Feld|    Nummer|   Feld      |
+| ------ | ------ |------ | ------     |
+| 1   | Title|        9|     Format|
+| 2   | Subject|     10|     Identifier
+| 3   | Description| 11|     Language|
+| 4   | SCreator|    12|     Relation|
+| 5   | Publisher|   13|     Coverage|
+| 6   | Contributor| 14|     Rights||
+| 7   | Date|        15|     Source|
 | 8   | Type|
-| 9   | Format|
-| 10  | Identifier|
-| 11  | Source
-| 12  | Language|
-| 13  | Relation|
-| 14  | Coverage|
-| 15  | Rights|
- 
+
 
 2.3. Marktüberblick Bibliothekssysteme
 
