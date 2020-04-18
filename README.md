@@ -109,7 +109,15 @@ Dublin Core™ Metadaten, oder genauer gesagt Metadaten "im Stil von Dublin Core
 | Jimdo | [Beispiel](https://webbkoll.dataskydd.net/de/results?url=http%3A%2F%2Fbainlerntagebuchmonameier.jimdofree.com%2F) |  |  |
 
 
- The Dublin Core Metadata Element Set
+The Dublin Core Metadata Element Set:
+| Nummer| Feld|
+| ------ | ------ |
+| 1  | Title|
+| 2  | Subject|
+
+
+
+ 
 Title
 Subject
 Description
