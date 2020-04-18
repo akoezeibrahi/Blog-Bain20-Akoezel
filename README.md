@@ -69,14 +69,14 @@ Die erste ursprüngliche Unix Shell (Bourne) wurde in den 1970er Jahren von [Ste
 Nachdem ich einige Möglichkeiten für die Erstellung vom Blog angeschaut habe, habe ich mich für [GitHub](https://github.com) entschieden. Andere Varianten wären Wordpress, GitLab, BitBucket SourceForge, Wix.com zum Erstellen eines Blogs. Das Registrieren beim GitHub war einfach und es gibt genügende Tutorials, um sich zu vertiefen, was ich noch vorhabe. Etwas Neues zu probieren und kennenzulernen macht mich neugierig.
 
 
-[2_Funktion und Aufbau von Bibliotheks- und Archivsystemen]()
+## [2_Funktion und Aufbau von Bibliotheks- und Archivsystemen]()
 
-2.1 Datenvisualisierung
+##  2.1 Datenvisualisierung
 
 Am Anfang der virtuellen Vorlesung am 03.04.2020 haben wir uns einige aktuellen Beispiele wie [Tagesspiegel](https://interaktiv.tagesspiegel.de/lab/die-globale-verbreitung-des-coronavirus-im-zeitverlauf/) und [Johns Hopkins](https://coronavirus.jhu.edu/map.html) im Hinblick auf Datenvisualisierung angeschaut und kommentiert. Wie die Autorin "Cole Nussbaumer Knaflic" in Ihrem Buch [Storytelling mit Daten] (https://www.beck-elibrary.de/10.15358/9783800653751/storytelling-mit-daten) schreibt, sollten einige Vorüberlegungen gemacht werden, bevor die Daten visualisiet werden. Auf die W- Fragen wem, was, wie und wann vermittelt werden, sollte eingegangen werden. Wie kann die Aufmerksamkeit des Publikums gewonnen werden und welche Emotionen werden die Daten auslösen? Und wird der Kontext meiner Datenvisualisierung richtig vermittelt? Welche Diagrame oder Abbildung für welche Fragestellung geeignet ist? Und weitere Fragen müssen beantwortet werden, bevor es losgeht. Daten sollten so visualisiert und dargestelt werden, damit die Gesichten beim Publikum gut ankommen können.
 
 
-2.2. Koha
+##  2.2. Koha
 
 Das Bibliotheksystem [Koha](https://koha-community.org) kannte ich vorher nicht. 
 
@@ -87,7 +87,7 @@ Das erste freie und quelloffene Bibliothekssystem der Welt
 
 Koha ist ein voll ausgestattetes, skalierbares Bibliotheksverwaltungssystem. Die Entwicklung wird von Bibliotheken unterschiedlicher Art und Größe, Freiwilligen und unterstützenden Unternehmen weltweit gesponsert.
 
-2.3. Metadatenstandards MARC21 und Dublin Core
+##  2.3. Metadatenstandards MARC21 und Dublin Core
 
 Die MARC-Formate sind Standards für die Repräsentation und den Tausch von Daten in maschinenlesbarer Form. Verantwortlich für die Pflege und Entwicklung von MARC 21 ist das Network Development and MARC Standards Office (NDMSO), das vom MARC Advisory Committee unterstützt wird. Es steht auch eine XML-Variante des Formats zur Verfügung.Quelle:http://www.loc.gov/marc/umb/
 
@@ -110,7 +110,7 @@ The Dublin Core Metadata Element Set:
 | 8   | Type|
 
 
-2.3. Marktüberblick Bibliothekssysteme
+##  2.3. Marktüberblick Bibliothekssysteme
 
 Winmedio Predata AG
 …
