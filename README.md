@@ -10,17 +10,16 @@
 [Inhaltverzeichnis]()
 
 [1_Technische Grundlagen]()
-* [2_Funktion und Aufbau von Bibliotheks- und Archivsystemen]()
-* [3_Repository-Software für Publikationen und Forschungsdaten ]()
-* [4_Metadaten modellieren und Schnittstellen nutzen]()
-* [5_Suchmaschinen und Discovery-Systeme]()
-* [6_Linked Data]()
-
-* [Schluss]()
-
+[2_Funktion und Aufbau von Bibliotheks- und Archivsystemen]()
+[3_Repository-Software für Publikationen und Forschungsdaten ]()
+[4_Metadaten modellieren und Schnittstellen nutzen]()
+[5_Suchmaschinen und Discovery-Systeme]()
+[6_Linked Data]()
+[Schluss]()
 
 
-* [Einführung]()
+
+[Einführung]()
 
 Das Fach "BAIN" gehört zu der Vertiefung "Bibliotheksmanagement", welches ich ausgewählt habe. Da ich beruflich mit solchen Systemen aus dem Bibliotheksbereich zutun habe, ist es für mich nützlich und auch spannend, mich vertieft mit denen auseinanderzusetzen. Wie solche Systeme technisch im Hintergrund funktionieren und was alles zu solchen Systemen gehört, ist für mich neu. Vor allem sehe ich Vorteile darin, dass man bei solchen Themen im Bibliotheksbereich mitreden oder den Kontext verstehen kann. Das gemeinsame Dokument über [GWDG](https://pad.gwdg.de/Zi-mp8FEQXKV22eL6qUUWg?both) mit den relevanten Hinweisen und Informationen war sehr hilfreich.
 
@@ -60,4 +59,31 @@ Die erste ursprüngliche Unix Shell (Bourne) wurde in den 1970er Jahren von [Ste
 
 ## 1.3 GitHub
 Nachdem ich einige Möglichkeiten für die Erstellung vom Blog angeschaut habe, habe ich mich für [GitHub](https://github.com) entschieden. Andere Varianten wären Wordpress, GitLab, BitBucket SourceForge, Wix.com zum Erstellen eines Blogs. Das Registrieren beim GitHub war einfach und es gibt genügende Tutorials, um sich zu vertiefen, was ich noch vorhabe. Etwas Neues zu probieren und kennenzulernen macht mich neugierig.
+
+
+[2_Funktion und Aufbau von Bibliotheks- und Archivsystemen]()
+
+2.1 Datenvisualisierung
+
+
+
+2.2. Koha
+
+
+
+2.3. Marktüberblick Bibliothekssysteme
+
+Winmedio Predata AG
+…
+Netbiblio
+…
+Axiell Arena
+…
+Aleph
+…
+SISIS-SunRise
+…
+ALMA
+…
+Koha
  
