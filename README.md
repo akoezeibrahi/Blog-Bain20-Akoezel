@@ -111,11 +111,12 @@ Same record with MARC tags:
 | 650_$a   | Internet|          
 | 900_$a   | 650.54 HAH| 
 
+
 The Dublin Core Metadata Element Set:              
-| Nummer| Feld|    Nummer|   Feld      |
-| ------ | ------ |------ | ------     |
+| Nummer| Feld|     Nummer|   Feld      |
+| ------ | ------  |------ | ------     |
 | 1   | Title|        9|     Format|
-| 2   | Subject|     10|     Identifier
+| 2   | Subject|     10|     Identifier|
 | 3   | Description| 11|     Language|
 | 4   | SCreator|    12|     Relation|
 | 5   | Publisher|   13|     Coverage|
