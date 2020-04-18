@@ -112,7 +112,8 @@ Same record with MARC tags:
 | 900_$a   | 650.54 HAH| 
 
 
-The Dublin Core Metadata Element Set:              
+The Dublin Core Metadata Element Set:  
+
 | Nummer| Feld|     Nummer|   Feld      |
 | ------ | ------  |------ | ------     |
 | 1   | Title|        9|     Format|
