@@ -79,18 +79,33 @@ Am Anfang der virtuellen Vorlesung am 03.04.2020 haben wir uns einige aktuellen 
 
 ##  2.2. Koha
 
-Das Bibliotheksystem [Koha](https://koha-community.org) kannte ich vorher nicht. 
+Das Bibliotheksystem [Koha](https://koha-community.org) kannte ich vorher nicht aber das ist weltweit bekanntes und skalierbares System, an dem vielen Akteure wie Bibliothekn und Unternehmen beiteilligt sind. In der Schweiz bekannt ist Aleph und da aufgrund des neues Projekt [SLSP] (https://slsp.ch/de) das Programm ALMA eingesetzt wird, ist das ALMA auch bekannt geworden. Durch die Einführung in der Vorlesung haben wir einen Überblick über technische Hintergrund des Programm erhalten. jetzt kann ich besser nachvollziehen, wie man Statistiken erstellen oder gewisse Abläufe wie Mahnungen stornieren, Schnell Titel erfasen durcführen. Duch in kategoerien geteiltes  Staff Interface erhält wichtige Teile des Systems. Es gibt nutzliche Information auf der [Koha-Webseite](https://koha-community.org) und auch ein Handbuch[Koha-Webseite](https://koha-community.org/manual/19.11/en/html/#)  und [Tutorials](https://vimeo.com/channels/kohails. Ich denke, wenn keine praxise Erfahrung mit der Bibliothekarische oder archivarische Arbeit hat, wird es einbisschen schwierig, das ganze System zu verstehen.
 
-Koha ist das erste Automatisierungspaket für freie Software-Bibliotheken. Es wird weltweit eingesetzt und seine Entwicklung wird von einer wachsenden Gemeinschaft von Benutzern gesteuert, die zusammenarbeiten, um ihre technologischen Ziele zu erreichen. Der Funktionsumfang von Koha wird ständig weiterentwickelt und erweitert, um den Bedürfnissen seiner Benutzer gerecht zu werden. 
-
-
-Das erste freie und quelloffene Bibliothekssystem der Welt
-
-Koha ist ein voll ausgestattetes, skalierbares Bibliotheksverwaltungssystem. Die Entwicklung wird von Bibliotheken unterschiedlicher Art und Größe, Freiwilligen und unterstützenden Unternehmen weltweit gesponsert.
 
 ##  2.3. Metadatenstandards MARC21 und Dublin Core
 
-Die MARC-Formate sind Standards für die Repräsentation und den Tausch von Daten in maschinenlesbarer Form. Verantwortlich für die Pflege und Entwicklung von MARC 21 ist das Network Development and MARC Standards Office (NDMSO), das vom MARC Advisory Committee unterstützt wird. Es steht auch eine XML-Variante des Formats zur Verfügung.Quelle:http://www.loc.gov/marc/umb/
+Die beiden Metadatenstandars sind bekannt im Bereich Informationswissenschaft. 
+
+Die MARC-Formate sind Standards für die Repräsentation und den Tausch von Daten in maschinenlesbarer Form und bekannt im Bibliothekswesen. Verantwortlich für die Pflege und Entwicklung von MARC 21 ist das Network Development and MARC Standards Office (NDMSO), das vom MARC Advisory Committee unterstützt wird. Es steht auch eine XML-Variante des Formats zur Verfügung.
+
+Quelle:http://www.loc.gov/marc/umb/
+
+Same record with MARC tags:
+
+| Nummer|       Feld|    
+| ------ |    ------ |    
+| 020__$a  | 978-3-86764-560-7|       
+| 100_1_$a  | Hahn, Oliver|        
+| 245_10_$a | Digitale Öffentlichkeiten| 
+| 250_$a    |1. Auflge|     
+| 260_$a    | München|    
+| 300_$a    | 300 Seiten|      
+| 520_$a   | Zusammenfassung|   
+| 650_$a   | Internet|          
+| 900_$a   | 650.54 HAH|
+
+
+
 
 Der Dublin Core, ein Satz von fünfzehn generischen, weit verbreiteten Elementen - Schöpfer, Beitragender, Herausgeber, Titel, Datum, Sprache, Format, Thema, Beschreibung, Identifikator, Beziehung, Quelle, Typ, Umfang und Rechte - wurde erstmals bei einem Treffen 1995 in Dublin, Ohio, entworfen, um zunächst die Informationssuche in einem explosionsartig wachsenden Web durch die Einbettung einfacher, kartenkatalogartiger Metadaten in seine Seiten zu erleichtern. Eine vielfältige Gemeinschaft von Bibliothekaren, Technologen und Forschern schloss sich der in einer Reihe von lebhaften Workshops und Konferenzen verfolgten und verfeinerten Idee an, durch einen Kern gemeinsamer Semantik eine grobe Interoperabilität zwischen Sprachen und Disziplinen zu erreichen. Aufeinanderfolgende Entwicklungen in der Webtechnologie zogen diese Gemeinschaft in zwei Richtungen:
 
