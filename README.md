@@ -95,44 +95,29 @@ Der Dublin Core, ein Satz von fünfzehn generischen, weit verbreiteten Elementen
 
 Dublin Core™ Metadaten, oder genauer gesagt Metadaten "im Stil von Dublin Core™", sind Metadaten, die für die Interoperabilität auf der Grundlage der Prinzipien des Semantic Web oder Linked Data entwickelt wurden. Metadaten in diesem Stil verwenden Uniform Resource Identifiers (URIs) als globale Bezeichner sowohl für die Dinge, die durch die Metadaten beschrieben werden, als auch für die Begriffe, mit denen sie beschrieben werden (Vokabulare). Dieser Stil zeichnet sich durch das Anwendungsprofil aus - eine Spezifikation, die im Einzelnen darlegt, wie bekannte generische Vokabulare wie der Dublin Core verwendet, eingeschränkt oder mit spezielleren Vokabularen kombiniert werden, um die Anforderungen spezifischer Anwendungen zu erfüllen. Anwendungsprofile stehen im Mittelpunkt der Dublin Core™ Gemeinschaft, seit sie im Jahr 2000 zum ersten Mal in Mode kamen.Quelle: https://dublincore.org/resources/metadata-basics/
 
- The Dublin Core Metadata Element Set:
-
-| Plattform | Beispiel | Cookies | Drittanfragen |
-| --------- | -------- | ------- | ------------- |
-
-
-
-
-| GitHub Pages | [Beispiel](https://webbkoll.dataskydd.net/de/results?url=http%3A%2F%2Flibrarygirllost.github.io%2Fbain-learning-by-doing%2F) |  |  |
-| GitLab Pages | [Beispiel](https://webbkoll.dataskydd.net/de/results?url=http%3A%2F%2Fpages.gitlab.io%2Fjekyll%2F) |  |  |
-| Wordpress | [Beispiel](https://webbkoll.dataskydd.net/de/results?url=http%3A%2F%2Fbainlernt.wordpress.com%2F) |  |  |
-| Jimdo | [Beispiel](https://webbkoll.dataskydd.net/de/results?url=http%3A%2F%2Fbainlerntagebuchmonameier.jimdofree.com%2F) |  |  |
-
+ 
 
 The Dublin Core Metadata Element Set:
-| Nummer| Feld|
-| ------ | ------ |
-| 1  | Title|
-| 2  | Subject|
-
-
-
+| Nummer| Feld|     Beipiel|
+| ------ | ------ |------ |
+| 1   | Title|
+| 2   | Subject|
+| 3   | Description|
+| 4   | SCreator|
+| 5   | Publisher|
+| 6   | Contributor|
+| 7   | Date|
+| 8   | Type|
+| 9   | Format|
+| 10  | Identifier|
+| 11  | Source
+| 12  | Language|
+| 13  | Relation|
+| 14  | Coverage|
+| 15  | Rights|
  
-Title
-Subject
-Description
-Creator
-Publisher
-Contributor
-Date
-Type
-Format
-Identifier
-Source
-Language
-Relation
-Coverage
-Rights
+
+
 2.3. Marktüberblick Bibliothekssysteme
 
 Winmedio Predata AG
