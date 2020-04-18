@@ -74,7 +74,7 @@ Nachdem ich einige Möglichkeiten für die Erstellung vom Blog angeschaut habe, 
 
 ##  2.1 Datenvisualisierung
 
-Am Anfang der virtuellen Vorlesung am 03.04.2020 haben wir uns einige aktuellen Beispiele wie [Tagesspiegel](https://interaktiv.tagesspiegel.de/lab/die-globale-verbreitung-des-coronavirus-im-zeitverlauf/) und [Johns Hopkins](https://coronavirus.jhu.edu/map.html) im Hinblick auf Datenvisualisierung angeschaut und kommentiert. Wie die Autorin "Cole Nussbaumer Knaflic" in Ihrem Buch [Storytelling mit Daten] (https://www.beck-elibrary.de/10.15358/9783800653751/storytelling-mit-daten) schreibt, sollten einige Vorüberlegungen gemacht werden, bevor die Daten visualisiet werden. Auf die W- Fragen wem, was, wie und wann vermittelt werden, sollte eingegangen werden. Wie kann die Aufmerksamkeit des Publikums gewonnen werden und welche Emotionen werden die Daten auslösen? Und wird der Kontext meiner Datenvisualisierung richtig vermittelt? Welche Diagrame oder Abbildung für welche Fragestellung geeignet ist? Und weitere Fragen müssen beantwortet werden, bevor es losgeht. Daten sollten so visualisiert und dargestelt werden, damit die Gesichten beim Publikum gut ankommen können.
+Am Anfang der virtuellen Vorlesung am 03.04.2020 haben wir uns einige aktuellen Beispiele wie [Tagesspiegel](https://interaktiv.tagesspiegel.de/lab/die-globale-verbreitung-des-coronavirus-im-zeitverlauf/) und [Johns Hopkins](https://coronavirus.jhu.edu/map.html) im Hinblick auf Datenvisualisierung angeschaut und kommentiert. Wie die Autorin "Cole Nussbaumer Knaflic" in Ihrem Buch [Storytelling mit Daten](https://www.beck-elibrary.de/10.15358/9783800653751/storytelling-mit-daten) schreibt, sollten einige Vorüberlegungen gemacht werden, bevor die Daten visualisiet werden. Auf die W- Fragen wem, was, wie und wann vermittelt werden, sollte eingegangen werden. Wie kann die Aufmerksamkeit des Publikums gewonnen werden und welche Emotionen werden die Daten auslösen? Und wird der Kontext meiner Datenvisualisierung richtig vermittelt? Welche Diagrame oder Abbildung für welche Fragestellung geeignet ist? Und weitere Fragen müssen beantwortet werden, bevor es losgeht. Daten sollten so visualisiert und dargestelt werden, damit die Gesichten beim Publikum gut ankommen können.
 
 
 ##  2.2. Koha
@@ -128,17 +128,17 @@ The Dublin Core Metadata Element Set:
 
 Unter einem Bibliothekssystem wird, welches alle mögliche Geschäftsabläufe der bibliothekarischen Arbeit in einer Datenbank abbildet,verstanden.Für die Bibliotheken sind bekannte Abkäufe wie Erwerbung, Ausleihe, Katalogisieren, Rechungen etc. Auch ist die Liste für die [Bibliothekssysteme] (https://homepage.ruhr-uni-bochum.de/Joerg.Becker/bibliothekssysteme.htm ) sehr lang, aber nicht alle haben den gleichen Erfolg. In der Schweiz ist je nach Bibliothekystype wird ein anderes system genutzt. Im Bereich Hochschul und Zentralbibliotheken wird Alepf benutzt, aber bald wird von ALMA abgelöst. Beide systeme gehören zur Firma [ExLibris] (https://www.exlibrisgroup.com/de/). Im öffentlichen Bereich kommen andere systeme im Einsatz. Enige bekannte sehen unten:
 
-.  [Winmedio Predata AG] (https://www.predata.ch/de/Bibliothekssoftware/winMedionet)
+# [Winmedio Predata AG](https://www.predata.ch/de/Bibliothekssoftware/winMedionet)
 
-.  [Netbiblio ] (http://www.alcoda.ch/index.php/de/)
+#  [Netbiblio ](http://www.alcoda.ch/index.php/de/)
 
-.  [Axiell Arena] (https://www.axiell.com/solutions/library-software/)
+# [Axiell Arena](https://www.axiell.com/solutions/library-software/)
 
-.  [Aleph  ] (https://www.exlibrisgroup.com/de/products/aleph-integrated-library-system/)
+#  [Aleph](https://www.exlibrisgroup.com/de/products/aleph-integrated-library-system/)
 
-.  [SISIS-SunRise] (https://www.oclc.org/de/sunrise.html)
+#  [SISIS-SunRise](https://www.oclc.org/de/sunrise.html)
 
-.  [ALMA ] (https://www.exlibrisgroup.com/de/produkte/alma-cloudgestuetzte-bibliotheksplattform/)
+#  [ALMA](https://www.exlibrisgroup.com/de/produkte/alma-cloudgestuetzte-bibliotheksplattform/)
 
-.  [Koha  ] (https://koha-community.org)
+# [Koha](https://koha-community.org)
  
