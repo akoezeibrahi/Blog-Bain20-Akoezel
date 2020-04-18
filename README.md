@@ -1,10 +1,13 @@
- - title: Modulblog BAIN
- - author: Ibrahim Akoezel
- - email: ibrahim.akoezel@stud.fhgr.ch
- - description: Einblick in Bibliotheken und Archiven eingesetzten Softwares und Technologien 
- - theme: Bibliothek, Archiv, Informatik, Open Source
- - github_username: akoezeibrahi
+ - Title: Modulblog BAIN
+ - Author: Ibrahim Akoezel
+ - E-Mail: ibrahim.akoezel@stud.fhgr.ch
+ - Description: Einblick in Bibliotheken und Archiven eingesetzten Softwares und Technologien 
+ - Theme: Bibliothek, Archiv, Informatik, Open Source
+ - Github_username: akoezeibrahi
 
+* [Einführung]()
+
+* [Inhaltverzeichnis]()
 * [1_Technische Grundlagen]()
 * [2_Funktion und Aufbau von Bibliotheks- und Archivsystemen]()
 * [3_Repository-Software für Publikationen und Forschungsdaten ]()
@@ -12,12 +15,17 @@
 * [5_Suchmaschinen und Discovery-Systeme]()
 * [6_Linked Data]()
 
+* [Schluss]()
 
-## 1_ Technische Grundlagen
+
+
+* [Einführung]()
 
 Das Fach "BAIN" gehört zu der Vertiefung "Bibliotheksmanagement", welches ich ausgewählt habe. Da ich beruflich mit solchen Systemen aus dem Bibliotheksbereich zutun habe, ist es für mich nützlich und auch spannend, mich vertieft mit denen auseinanderzusetzen. Wie solche Systeme technisch im Hintergrund funktionieren und was alles zu solchen Systemen gehört, ist für mich neu. Vor allem sehe ich Vorteile darin, dass man bei solchen Themen im Bibliotheksbereich mitreden oder den Kontext verstehen kann. Das gemeinsame Dokument über [GWDG](https://pad.gwdg.de/Zi-mp8FEQXKV22eL6qUUWg?both) mit den relevanten Hinweisen und Informationen war sehr hilfreich.
 
 Da ich den Unterricht aufgrund meiner [FCE-Prüfung](https://cambridge-exams.ch/de/fce-cambridge-english-first) am 13.03.2020 nicht besuchen konnte, musste ich einige Registrationen und Installationen nachträglich durchführen.
+
+## 1_ Technische Grundlagen
 
 ## 1.1  Einrichten der Arbeitsumgebung (Linux)
 
