@@ -84,11 +84,18 @@ Das Bibliotheksystem [Koha](https://koha-community.org) kannte ich vorher nicht 
 
 ##  2.3. Metadatenstandards MARC21 und Dublin Core
 
-Die beiden Metadatenstandars sind bekannt im Bereich Informationswissenschaft. 
+Die Metadatenstandars sind für die Information und Datenaustausch von Bedeutung, damit die verschiedene Systemene doch miteinander arbeite können. Das beschleiunigt den Austausch und ermöglicht eine strukturierung der Daten. Die [Liste](http://www.dcc.ac.uk/resources/metadata-standards/list) für die Metadatenstandrs ist lang. Aber nicht alle haben sich etabiliert oder grosse Massen erreicht.
 
-Die MARC-Formate sind Standards für die Repräsentation und den Tausch von Daten in maschinenlesbarer Form und bekannt im Bibliothekswesen. Verantwortlich für die Pflege und Entwicklung von MARC 21 ist das Network Development and MARC Standards Office (NDMSO), das vom MARC Advisory Committee unterstützt wird. Es steht auch eine XML-Variante des Formats zur Verfügung.
+Die beiden Metadatenstandars sind bekannt im Bereich Informationswissenschaft. Der Marc Standars sind im Biblothekswesen bekannt und ermöglichen, die Daten maschinel zu repräsentieren und austauschen. der aktuellste Version davon ist Marc21. Dublin Core ist mit Internet entstanden, um die Datenaustauschm im Internet strukturieren und beschleunigen zu können. 
 
-Quelle:http://www.loc.gov/marc/umb/
+Eine beschreibung gemäss DCMI ist wie folgt:
+
+"Der Dublin Core, ein Satz von fünfzehn generischen, weit verbreiteten Elementen - Schöpfer, Beitragender, Herausgeber, Titel, Datum, Sprache, Format, Thema, Beschreibung, Identifikator, Beziehung, Quelle, Typ, Umfang und Rechte - wurde erstmals bei einem Treffen 1995 in Dublin, Ohio, entworfen, um zunächst die Informationssuche in einem explosionsartig wachsenden Web durch die Einbettung einfacher, kartenkatalogartiger Metadaten in seine Seiten zu erleichtern. Eine vielfältige Gemeinschaft von Bibliothekaren, Technologen und Forschern schloss sich der in einer Reihe von lebhaften Workshops und Konferenzen verfolgten und verfeinerten Idee an, durch einen Kern gemeinsamer Semantik eine grobe Interoperabilität zwischen Sprachen und Disziplinen zu erreichen"
+
+Für die Pfelege und Entwicklung von Marc ist [NDMSO](http://www.loc.gov/marc/ndmso.html) zuständig und für Dublin Core ist [DCMI](https://dublincore.org/about/) zuständig.
+
+Die Beipiele von Datensätze sehen wie folgt aus.
+
 
 Same record with MARC tags:
 
@@ -102,18 +109,9 @@ Same record with MARC tags:
 | 300_$a    | 300 Seiten|      
 | 520_$a   | Zusammenfassung|   
 | 650_$a   | Internet|          
-| 900_$a   | 650.54 HAH|
+| 900_$a   | 650.54 HAH| 
 
-
-
-
-Der Dublin Core, ein Satz von fünfzehn generischen, weit verbreiteten Elementen - Schöpfer, Beitragender, Herausgeber, Titel, Datum, Sprache, Format, Thema, Beschreibung, Identifikator, Beziehung, Quelle, Typ, Umfang und Rechte - wurde erstmals bei einem Treffen 1995 in Dublin, Ohio, entworfen, um zunächst die Informationssuche in einem explosionsartig wachsenden Web durch die Einbettung einfacher, kartenkatalogartiger Metadaten in seine Seiten zu erleichtern. Eine vielfältige Gemeinschaft von Bibliothekaren, Technologen und Forschern schloss sich der in einer Reihe von lebhaften Workshops und Konferenzen verfolgten und verfeinerten Idee an, durch einen Kern gemeinsamer Semantik eine grobe Interoperabilität zwischen Sprachen und Disziplinen zu erreichen. Aufeinanderfolgende Entwicklungen in der Webtechnologie zogen diese Gemeinschaft in zwei Richtungen:
-
-Dublin Core™ Metadaten, oder genauer gesagt Metadaten "im Stil von Dublin Core™", sind Metadaten, die für die Interoperabilität auf der Grundlage der Prinzipien des Semantic Web oder Linked Data entwickelt wurden. Metadaten in diesem Stil verwenden Uniform Resource Identifiers (URIs) als globale Bezeichner sowohl für die Dinge, die durch die Metadaten beschrieben werden, als auch für die Begriffe, mit denen sie beschrieben werden (Vokabulare). Dieser Stil zeichnet sich durch das Anwendungsprofil aus - eine Spezifikation, die im Einzelnen darlegt, wie bekannte generische Vokabulare wie der Dublin Core verwendet, eingeschränkt oder mit spezielleren Vokabularen kombiniert werden, um die Anforderungen spezifischer Anwendungen zu erfüllen. Anwendungsprofile stehen im Mittelpunkt der Dublin Core™ Gemeinschaft, seit sie im Jahr 2000 zum ersten Mal in Mode kamen.Quelle: https://dublincore.org/resources/metadata-basics/
-
- 
-
-The Dublin Core Metadata Element Set:
+The Dublin Core Metadata Element Set:              
 | Nummer| Feld|    Nummer|   Feld      |
 | ------ | ------ |------ | ------     |
 | 1   | Title|        9|     Format|
@@ -128,17 +126,19 @@ The Dublin Core Metadata Element Set:
 
 ##  2.3. Marktüberblick Bibliothekssysteme
 
-Winmedio Predata AG
-…
-Netbiblio
-…
-Axiell Arena
-…
-Aleph
-…
-SISIS-SunRise
-…
-ALMA
-…
-Koha
+Unter einem Bibliothekssystem wird, welches alle mögliche Geschäftsabläufe der bibliothekarischen Arbeit in einer Datenbank abbildet,verstanden.Für die Bibliotheken sind bekannte Abkäufe wie Erwerbung, Ausleihe, Katalogisieren, Rechungen etc. Auch ist die Liste für die [Bibliothekssysteme] (https://homepage.ruhr-uni-bochum.de/Joerg.Becker/bibliothekssysteme.htm ) sehr lang, aber nicht alle haben den gleichen Erfolg. In der Schweiz ist je nach Bibliothekystype wird ein anderes system genutzt. Im Bereich Hochschul und Zentralbibliotheken wird Alepf benutzt, aber bald wird von ALMA abgelöst. Beide systeme gehören zur Firma [ExLibris] (https://www.exlibrisgroup.com/de/). Im öffentlichen Bereich kommen andere systeme im Einsatz. Enige bekannte sehen unten:
+
+.  [Winmedio Predata AG] (https://www.predata.ch/de/Bibliothekssoftware/winMedionet)
+
+.  [Netbiblio ] (http://www.alcoda.ch/index.php/de/)
+
+.  [Axiell Arena] (https://www.axiell.com/solutions/library-software/)
+
+.  [Aleph  ] (https://www.exlibrisgroup.com/de/products/aleph-integrated-library-system/)
+
+.  [SISIS-SunRise] (https://www.oclc.org/de/sunrise.html)
+
+.  [ALMA ] (https://www.exlibrisgroup.com/de/produkte/alma-cloudgestuetzte-bibliotheksplattform/)
+
+.  [Koha  ] (https://koha-community.org)
  
