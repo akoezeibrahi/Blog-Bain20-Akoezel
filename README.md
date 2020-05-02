@@ -10,7 +10,7 @@
 
 [Einführung]()
 
-[1_Technische Grundlagen]()
+[1_Technische Grundlagen](Blog-Bain20-Akoezel/1_Technische Grundlagen.md)
 
 [2_Funktion und Aufbau von Bibliotheks- und Archivsystemen]()
 
