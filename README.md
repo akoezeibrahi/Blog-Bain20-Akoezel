@@ -142,17 +142,11 @@ Unter einem Bibliothekssystem wird, eine Datenbank verstanden, welche alle mögl
  
  Es war mal Anfang von 2017 in Chur, als Herr Niklaus Stettler uns sein Wissen zu diesem Thema in einer Vorlesung vom Modul WOR2  mitgegeben hat. Der Metadatenstandard ISAD(G) mit anderen Standards wie ISAAR (Erschliessung der Akteure) und ISDF (Prozesserschliessung) wurden thematisiert. Trotzdem war es eine Auffrischung, wieder Blick ins Thema einwerfen zu dürfen. 
  
-| Pflichsfellder von ISAD(G):           |       
-| ------     |                          |
-| Signatur   |    Entstehungszeitraum   | 
-| Titel      |    Umfang                | 
-| Provenienz |    Verzeichnungsstufe    | 
 
-| Pflichsfellder von ISAD(G): |    
-| ------ |    ------ |    
-| Signatur   |   Entstehungszeitraum |       
-|  Titel  | Umfang     |        
-| Provenienz  | Verzeichnungsstufe  | 
+| Pflichsfellder von ISAD(G):      |      
+| Signatur   | Entstehungszeitraum |       
+|  Titel     | Umfang              |        
+| Provenienz | Verzeichnungsstufe  | 
 
 
 
