@@ -6,7 +6,7 @@
  - Github_username: akoezeibrahi
 
 
-### [Inhaltverzeichnis:]()
+#### [Inhaltverzeichnis:]()
 
 ### [Einführung](https://github.com/akoezeibrahi/Blog-Bain20-Akoezel/blob/master/Einführung.md)
 
@@ -14,12 +14,12 @@
 
 ### [2_Funktion und Aufbau von Bibliotheks- und Archivsystemen](https://github.com/akoezeibrahi/Blog-Bain20-Akoezel/blob/master/3_Repository-Software%20für%20Publikationen%20und%20Forschungsdaten.md)
 
-[3_Repository-Software für Publikationen und Forschungsdaten ](https://github.com/akoezeibrahi/Blog-Bain20-Akoezel/blob/master/3_Repository-Software%20für%20Publikationen%20und%20Forschungsdaten.md)
+### [3_Repository-Software für Publikationen und Forschungsdaten ](https://github.com/akoezeibrahi/Blog-Bain20-Akoezel/blob/master/3_Repository-Software%20für%20Publikationen%20und%20Forschungsdaten.md)
 
-[4_Metadaten modellieren und Schnittstellen nutzen]
+### [4_Metadaten modellieren und Schnittstellen nutzen]
 
-[5_Suchmaschinen und Discovery-Systeme]
+### [5_Suchmaschinen und Discovery-Systeme]
 
-[6_Linked Data]
+### [6_Linked Data]
 
-[Schluss]
+### [Schluss]
