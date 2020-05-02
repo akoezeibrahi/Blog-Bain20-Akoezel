@@ -134,6 +134,32 @@ Unter einem Bibliothekssystem wird, eine Datenbank verstanden, welche alle mögl
 ##  2.4. Funktion und Aufbau von Archivsystemen
  
  
+ An einem  Samstag 25.04.2020 hatte ich vor, Zeit  mit meiner Familie zu verbringen aber die Realität hat mich daran erinert, dass ich trotz des Alters von 34 immer noch Student bin und deswegen müsse ich meine schulische Pfilichten erfüllen. Na ja, es ist ok, aber am Samstag sollten wir doch  frei haben oder nicht? Eben nicht. Im Kalender wurde es eingetragen, dass ich heute doch eine Vorlesung vom Modul BAIN habe. Grund dafür ist unser neues Lebenspartner "CORONA". Die Uhr zeigt 7:30 Uhr und ich bin noch im Bett mit Pijama und spiele mit Aline (meine 5 monatige Tochter). Nach dem Aktivitäten wie Wickeln von Aline, Füttern von Meerschweinchen und Frühstücken mit der Familie gemacht wurden, setzte ich mich vor dem PC und loge ich mich überaller, um start bereit für die Vorlesung zu sein. Ausser Schuhen anziehen, bin ich so bereit, als ob ich in der realen Vorlsung in Zürich bin. Worum es geht heute eigentlich? Funktion und Aufbau von Archivsystemen. Genauer gasagt, werden wir archivische Metadatenstandard wie [ISAD(G)](https://de.wikipedia.org/wiki/ISAD(G)),[ArchivesSpace ](http://archivesspace.org/community/whos-using-archivesspace) und Marktüberblick von Archivstysteme anschauen. Ich muss zuerst zugeben, dass die archivarische Themen nicht auf meiner Wünschliste sind, obwohl die Archive wichtige Funktionen wie Staat, Mesnchen etc.haben. Wenn ich ans Archiv denke, kommt der staubige Koffer von meinem Vater mit seiner behördlichen Akten, welche wir 8 Kinder alle jedes mal alle durchgehen müssten, bis wir etwas gewunden haben. Obwohl sich die Welt der Archive durch neue Möglichkeiten wie Internet, Technik verändert hat, ist sie für mich immer noch für mich staubig, zu verstehen.
+ 
+ 
+ 
+ # Metadatenstandard & ArchivesSpace & Marktüberblick
+ 
+ Es war mal Anfang von 2017 in Chur, als Herr Niklaus Stettler uns sein Wissen zu diesem Thema in einer Vorlesung vom Modul WOR2  mitgegeben hat. Der Metadatenstandard ISAD(G) mit anderen Standards wie ISAAR (Erschliessung der Akteure) und ISDF (Prozesserschliessung) wurden thematisiert. Trotzdem war es eine Auffrischung, wieder Blick ins Thema einwerfen zu dürfen. 
+ 
+| Pflichsfellder|       
+| ------ |     
+| Signatur  |       
+| Titel |
+| 245_10_$a |  
+| 250_$a    |   
+| 260_$a    |    
+| 300_$a    |  
+| 520_$a   | 
+| 650_$a   |          
+| 900_$a   |
+
+Signatur
+Titel
+Provenienz
+Entstehungszeitraum
+Umfang
+Verzeichnungsstufe
  
  
  ##  [3_Repository-Software für Publikationen und Forschungsdaten]()
