@@ -10,7 +10,7 @@
 
 [Einführung](https://github.com/akoezeibrahi/Blog-Bain20-Akoezel/blob/master/Einführung.md)
 
-[1_Technische Grundlagen]()
+[1_Technische Grundlagen](https://github.com/akoezeibrahi/Blog-Bain20-Akoezel/blob/master/1_Technische%20Grundlagen.md)
 
 [2_Funktion und Aufbau von Bibliotheks- und Archivsystemen]()
 
