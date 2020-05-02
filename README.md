@@ -150,7 +150,8 @@ Unter einem Bibliothekssystem wird, eine Datenbank verstanden, welche alle mögl
 | Provenienz                  |  Verzeichnungsstufe| 
 
 
-Zusätzlich war es auch nützlich,   die Archivkataloge ["Online Archivkatalog des Staatsarchivs BS(https://query.staatsarchiv.bs.ch/query/suchinfo.aspx) und ["Hochschularchiv ETH Zürich2](http://archivdatenbank-online.ethz.ch/)in Gruppenarbeit anschauen und unsere Anmerkungen im gemeinsamen Dokument erfassenn können. Da ich aus der Bibliotheksbereich komme, musste ich mich zuerst in diesen Katalogen rechtfinden, weil sie anders aufgebaut als Bibliothekarische oder andere Datenbanken sind.  Zudem konnten wir eiige Übengune anhand einer Open-Source-Software "ArchivesSpace"  als Gruppe durchführen. Die Software war meiner Einschätzung benutzerfreundlich und anhand der Anleitungen konnte schnell bedient werden. Als Gruppe konnten wir einiges testen (repository,Collection, Datensatz ablegen und Export und Import).Siehe im [Screenshot von der Übung](https://pad.gwdg.de/uploads/upload_e09d85052a9ec3423ad0517d2f788dc7.png)
+Zusätzlich war es auch nützlich, die Archivkataloge ["Online Archivkatalog des Staatsarchivs
+BS](https://query.staatsarchiv.bs.ch/query/suchinfo.aspx) und ["Hochschularchiv ETH Zürich2](http://archivdatenbank-online.ethz.ch/)in Gruppenarbeit anschauen und unsere Anmerkungen im gemeinsamen Dokument erfassenn können. Da ich aus der Bibliotheksbereich komme, musste ich mich zuerst in diesen Katalogen rechtfinden, weil sie anders aufgebaut als Bibliothekarische oder andere Datenbanken sind.  Zudem konnten wir eiige Übengune anhand einer Open-Source-Software "ArchivesSpace"  als Gruppe durchführen. Die Software war meiner Einschätzung benutzerfreundlich und anhand der Anleitungen konnte schnell bedient werden. Als Gruppe konnten wir einiges testen (repository,Collection, Datensatz ablegen und Export und Import).Siehe im [Screenshot von der Übung](https://pad.gwdg.de/uploads/upload_e09d85052a9ec3423ad0517d2f788dc7.png).
 
 von den Archivinformationssysteme haben wir nur [ATOM](https://www.accesstomemory.org) kurz in der Vorlesung von Herr Niklaus Stettler erfahren. Da wir keine genügende Zeit damals hatten, konnten wir keiene Übungen damit machen. Zusätzlich 
 [scope.Archiv](http://www.scope.ch) und [CMISTAR](https://www.cmiag.ch/cmistar) von der Bedeutung für den Markt.
@@ -158,8 +159,16 @@ von den Archivinformationssysteme haben wir nur [ATOM](https://www.accesstomemor
  
  ##  [3_Repository-Software für Publikationen und Forschungsdaten]()
  
- Weiter abhier: iak
- 
+Die Themen Open Access und Open Data und umsetzungsrelevante Software interessieren mich sehr, da ich in einer wissenschaftlichen Bibliothek arbeite und im Umfeld mit den themen verbundene Fragen konfrontiert sind. Als Open ressource hört man oft von[ZENODO](https://zenodo.org) und viele Hochschulen und Universitäteten erstellen ihre Kommunities auf dem Zenodo und legen bei Ihnen entsatnden Daten und Publikationen dauf ab. Der Vorteil von Zenodo ist kostenlos, serious und in der Schweiz und von [CERN](https://home.cern) betreuet, was gewisse vertaruen mit sich bringt. Aber man hört, dass das Zenodo als Projekt nur bestimmte Zeit (20-30 jahre) finanziert ist. Wie es weiter geht, ist es unbekannt, was auch für die [DILZA] (https://scholar.google.ch/scholar?q=long+term+digital+preservation&hl=de&as_sdt=0&as_vis=1&oi=scholart) problematisch ist. Ein anderer Nachteil ist, dass in Zenodo hochgeladene Daten und Publikationen nicht mehr veränderbar sind. Das heisst, wenn die Publikation hochgeaden ist, kann man nicht verändern. Aber eine neue Auflage darf natürlich abgelegt werden. Da ich Erfahrung mit Daten hochladen mit Zenodo habe, verzichte ich auf die Übenungen, welche ich nachträglich machen wollte. Die Forschunginformationssysteme sind je nach Bedarf und Umfang der Daten oder Publikationen werden an der Hochschulen umgesetzt. Es ist gut zu wissen, dass solche kostenlose open Ressorce wie DSpace gibt. Ich werde gerne die Demo-Version davon austesten. Weshalb sind wir bei der Arbeit auf diese Software nicht getossen, werde ich nach gehen. Aufgrund des hohen Kosten für ein [FIS](https://de.wikipedia.org/wiki/Forschungsinformationssystem), haben wir uns für Zenodo entschieden.
+
+* [DSpace](https://www.dspace.org)
+* [EPrints](https://www.eprints.org)
+* [Fedora](http://fedorarepository.org) / [Islandora](https://islandora.ca)
+* [Invenio](https://invenio-software.org)
+* [MyCoRe](https://www.mycore.de)
+* [OPUS](https://www.opus-repository.org)
+
+Soweit ich es beurteilen kann, sind die Inhalte in dieser Datenbaken für die Recheche bei der  Suchmaschienen wie Google nicht gut sichtbar. Die Ergebnisse sind nicht auf ersten relevanten Treffer ersichtlich.
  
  ## [4_Metadaten modellieren und Schnittstellen nutzen]()
 
