@@ -149,6 +149,11 @@ Unter einem Bibliothekssystem wird, eine Datenbank verstanden, welche alle mögl
 |  Titel     | Umfang              |        
 | Provenienz | Verzeichnungsstufe  | 
 
+| Pflichsfellder von ISAD(G)         |    
+| ------        |    ------          |    
+| Signatur      | Entstehungszeitraum|       
+| Titel         | Umfang  |        
+| Provenienz    |  Verzeichnungsstufe| 
 
 
 Zusätzlich war es auch nützlich,   die Archivkataloge ["Online Archivkatalog des Staatsarchivs BS(https://query.staatsarchiv.bs.ch/query/suchinfo.aspx) und ["Hochschularchiv ETH Zürich2](http://archivdatenbank-online.ethz.ch/)in Gruppenarbeit anschauen und unsere Anmerkungen im gemeinsamen Dokument erfassenn können. Da ich aus der Bibliotheksbereich komme, musste ich mich zuerst in diesen Katalogen rechtfinden, weil sie anders aufgebaut als Bibliothekarische oder andere Datenbanken sind.  Zudem konnten wir eiige Übengune anhand einer Open-Source-Software "ArchivesSpace"  als Gruppe durchführen. Die Software war meiner Einschätzung benutzerfreundlich und anhand der Anleitungen konnte schnell bedient werden. Als Gruppe konnten wir einiges testen (repository,Collection, Datensatz ablegen und Export und Import).Siehe im [Screenshot von der Übung](https://pad.gwdg.de/uploads/upload_e09d85052a9ec3423ad0517d2f788dc7.png)
