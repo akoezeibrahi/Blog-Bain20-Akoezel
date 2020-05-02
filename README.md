@@ -8,18 +8,20 @@
 
 ### [Inhaltverzeichnis:]()
 
-[Einführung]()
+*[Einführung]()
 
-[1_Technische Grundlagen] (Blog-Bain20-Akoezel/1_Technische Grundlagen.md)
+* [Block 1 vom 13.03.20](Blog-Bain20-Akoezel/1_Technische Grundlagen.md)
 
-[2_Funktion und Aufbau von Bibliotheks- und Archivsystemen]()
+* [1_Technische Grundlagen](Blog-Bain20-Akoezel/1_Technische Grundlagen.md)
 
-[3_Repository-Software für Publikationen und Forschungsdaten ]()
+* [2_Funktion und Aufbau von Bibliotheks- und Archivsystemen]()
 
-[4_Metadaten modellieren und Schnittstellen nutzen]()
+* [3_Repository-Software für Publikationen und Forschungsdaten ]()
 
-[5_Suchmaschinen und Discovery-Systeme]()
+* [4_Metadaten modellieren und Schnittstellen nutzen]()
 
-[6_Linked Data]()
+* [5_Suchmaschinen und Discovery-Systeme]()
 
-[Schluss]()
+* [6_Linked Data]()
+
+* [Schluss]()
