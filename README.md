@@ -129,6 +129,12 @@ The Dublin Core Metadata Element Set:
 ##  2.3. Marktüberblick Bibliothekssysteme
 
 Unter einem Bibliothekssystem wird, eine Datenbank verstanden, welche alle möglichen Geschäftsabläufe der bibliothekarischen Arbeit abbilden kann,verstanden. Bekannte Abläufe für Bibliotheken sind Erwerbung, Ausleihe, Katalogisieren, Rechnungen etc. Auch ist die Liste für die [Bibliothekssysteme](https://homepage.ruhr-uni-bochum.de/Joerg.Becker/bibliothekssysteme.htm ) sehr lang, aber nicht alle haben den gleichen Erfolg. In der Schweiz wird je nach Bibliothekystyp ein anderes System genutzt. Im Bereich Hochschul- und Zentralbibliotheken wird Aleph benutzt, aber bald wird dieses System von ALMA abgelöst. Beide Systeme gehören zur Firma [ExLibris](https://www.exlibrisgroup.com/de/). Im öffentlichen Bereich kommen andere Systeme zum Einsatz. Einige bekannte werden nachfolgend aufgelistet:[Winmedio Predata AG](https://www.predata.ch/de/Bibliothekssoftware/winMedionet), [Netbiblio ](http://www.alcoda.ch/index.php/de/), [Axiell Arena](https://www.axiell.com/solutions/library-software/), [Aleph](https://www.exlibrisgroup.com/de/products/aleph-integrated-library-system/), [SISIS-SunRise](https://www.oclc.org/de/sunrise.html), [ALMA](https://www.exlibrisgroup.com/de/produkte/alma-cloudgestuetzte-bibliotheksplattform/), [Koha](https://koha-community.org).
+
+
+##  2.4. Funktion und Aufbau von Archivsystemen
+ 
+ 
+ 
  
  ##  [3_Repository-Software für Publikationen und Forschungsdaten]()
  
