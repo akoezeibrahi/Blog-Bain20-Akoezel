@@ -140,3 +140,11 @@ Unter einem Bibliothekssystem wird, eine Datenbank verstanden, welche alle mögl
  
  Weiter abhier: iak
  
+ 
+ ## [4_Metadaten modellieren und Schnittstellen nutzen]()
+
+## [5_Suchmaschinen und Discovery-Systeme]()
+
+## [6_Linked Data]()
+## [7_Schluss]()
+
