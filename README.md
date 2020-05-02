@@ -143,16 +143,15 @@ Unter einem Bibliothekssystem wird, eine Datenbank verstanden, welche alle mögl
  Es war mal Anfang von 2017 in Chur, als Herr Niklaus Stettler uns sein Wissen zu diesem Thema in einer Vorlesung vom Modul WOR2  mitgegeben hat. Der Metadatenstandard ISAD(G) mit anderen Standards wie ISAAR (Erschliessung der Akteure) und ISDF (Prozesserschliessung) wurden thematisiert. Trotzdem war es eine Auffrischung, wieder Blick ins Thema einwerfen zu dürfen. 
  
 
-| Pflichsfellder von ISAD(G):      |      
+| # Pflichsfellder von ISAD(G):    |    
+
 | Signatur   | Entstehungszeitraum |       
 |  Titel     | Umfang              |        
 | Provenienz | Verzeichnungsstufe  | 
 
 
 
-Zusätzlich war es auch nützlich,   die Archivkataloge ["Online Archivkatalog des Staatsarchivs BS(https://query.staatsarchiv.bs.ch/query/suchinfo.aspx) und ["Hochschularchiv ETH Zürich2](http://archivdatenbank-online.ethz.ch/)in Gruppenarbeit anschauen und unsere Anmerkungen im gemeinsamen Dokument erfassenn können. Da ich aus der Bibliotheksbereich komme, musste ich mich zuerst in diesen Katalogen rechtfinden, weil sie anders aufgebaut als Bibliothekarische oder andere Datenbanken sind.  Zudem konnten wir eiige Übengune anhand einer Open-Source-Software "ArchivesSpace"  als Gruppe durchführen. Die Software war meiner Einschätzung benutzerfreundlich und anhand der Anleitungen konnte schnell bedient werden. Als Gruppe konnten wir einiges testen (repository,Collection, Datensatz ablegen und Export und Import). 
-
-![Screenshot von der Übung](https://pad.gwdg.de/uploads/upload_e09d85052a9ec3423ad0517d2f788dc7.png)
+Zusätzlich war es auch nützlich,   die Archivkataloge ["Online Archivkatalog des Staatsarchivs BS(https://query.staatsarchiv.bs.ch/query/suchinfo.aspx) und ["Hochschularchiv ETH Zürich2](http://archivdatenbank-online.ethz.ch/)in Gruppenarbeit anschauen und unsere Anmerkungen im gemeinsamen Dokument erfassenn können. Da ich aus der Bibliotheksbereich komme, musste ich mich zuerst in diesen Katalogen rechtfinden, weil sie anders aufgebaut als Bibliothekarische oder andere Datenbanken sind.  Zudem konnten wir eiige Übengune anhand einer Open-Source-Software "ArchivesSpace"  als Gruppe durchführen. Die Software war meiner Einschätzung benutzerfreundlich und anhand der Anleitungen konnte schnell bedient werden. Als Gruppe konnten wir einiges testen (repository,Collection, Datensatz ablegen und Export und Import).Siehe im [Screenshot von der Übung](https://pad.gwdg.de/uploads/upload_e09d85052a9ec3423ad0517d2f788dc7.png)
 
 von den Archivinformationssysteme haben wir nur [ATOM](https://www.accesstomemory.org) kurz in der Vorlesung von Herr Niklaus Stettler erfahren. Da wir keine genügende Zeit damals hatten, konnten wir keiene Übungen damit machen. Zusätzlich 
 [scope.Archiv](http://www.scope.ch) und [CMISTAR](https://www.cmiag.ch/cmistar) von der Bedeutung für den Markt.
