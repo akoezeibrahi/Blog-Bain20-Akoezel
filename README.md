@@ -1,6 +1,6 @@
 
 
-### [Einführung](https://github.com/akoezeibrahi/Blog-Bain20-Akoezel/blob/master/Einführung.md)
+### [Einführung](Einführung.md)
 
 ### [1_Technische Grundlagen](1_Technische Grundlagen.md)
 
