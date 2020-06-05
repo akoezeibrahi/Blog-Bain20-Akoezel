@@ -1,7 +1,6 @@
 
 
 ### [Einführung](Einführung.md)
-### [1_Technische Grundlagen](1_Technische Grundlagen.md)
 
 ### [1_Technische Grundlagen](1_Technische Grundlagen.md)
 
