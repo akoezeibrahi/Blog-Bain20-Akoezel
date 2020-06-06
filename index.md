@@ -1,5 +1,7 @@
 ### Es freuet mich dass Sie mein Blog beuscht haben
 
+#### Hier ist mein Agenda für die Tagesbusbeiträge:
+
 
 ### [Einführung](https://github.com/akoezeibrahi/Blog-Bain20-Akoezel/blob/master/Einführung.md)
 
